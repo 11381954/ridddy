@@ -1,0 +1,24 @@
+<!doctype html>
+
+<html lang="en"
+<head>
+<title>Dog Home Page</title>
+</head>
+<body>
+<body style="text-align: center;">
+<header style="font-size: large">
+<u>Whats your favorite Dog?</u>
+</header style>
+</body>
+<Main>
+<header style="font-size: medium;">
+Mine is a Golden Retriever
+</header style>
+<header style="font-size: medium;">
+<a href="https://www.pexels.com/search/dog/">Want to see all different types of dogs? Click here</a>
+</Main>
+<footer>
+<img src="https://media.istockphoto.com/id/509052128/photo/golden-retriever-sitting-in-front-of-a-white-background.jpg?s=2048x2048&w=is&k=20&c=0o0cZI6ux-5mE8wqTdClTheh3FAAcvX_4OpOsvJ86y4="width="450" height="550"
+<a href="
+</footer>
+

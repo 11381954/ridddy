@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html lang="en"
+<head>
+<title>Dogs or Cats?</title>
+</head>
+<body>
+<body style="text-align: center;">
+<header style="font-size: large">
+<u>What do you like more, dogs or cats?</u>
+</header style>
+</body>
+<Main>
+<header style="font-size: medium;">
+<a href="https://pixabay.com/images/search/cat/">Want to see all different types of cats? Click here</a>
+</header style>
+<header style="font-size: medium">
+<img src="https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_640.jpg"
+<a href="
+</Main>
